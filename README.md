@@ -36,10 +36,6 @@ python main.py --params utils/X.yaml
 `X` = `mnist_params`, `cifar_params`, Parameters can be changed in those yaml files to reproduce our experiments.
 ```
 ```
-
-## Citation
-If you find our work useful in your research, please consider citing:
-```
 ## Acknowledgement 
 - [ebagdasa/backdoor_federated_learning](https://github.com/ebagdasa/backdoor_federated_learning)
 - [krishnap25/RFA](https://github.com/krishnap25/RFA)
